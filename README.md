@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on developer experience [at Nacelle](https://github.com/getnacelle)
 - 🌱 I’m currently learning PostgreSQL
-- 📫 How to reach me: [@leviwhalen](https://twitter.com/LeviWhalen) on Twitter
+- 📫 I'm reachable on Twitter [@leviwhalen](https://twitter.com/LeviWhalen)
