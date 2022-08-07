@@ -1,7 +1,8 @@
 # Greetings Earthling 🖖
 
 ## About Me
-- 🔭 I’m currently helping developers build awesome search expriences at [Algolia](https://www.algolia.com/) and building [Runboard](https://github.com/runboard-app)
+- 🔭 I’m currently helping developers build awesome search expriences at [Algolia](https://www.algolia.com/)
+- 🏗 I'm building a high performance visual site builder called [Runboard](https://github.com/runboard-app)
 - 📫 I'm reachable on Twitter [@leviwhalen](https://twitter.com/LeviWhalen)
 
 
