@@ -1,7 +1,7 @@
 # Greetings Earthling 🖖
 
 ## About Me
-- 🔭 I’m currently working on developer experience [at Nacelle](https://github.com/getnacelle) and building [Runboard](https://github.com/runboard-app)
+- 🔭 I’m currently helping developers build awesome search expriences at [Algolia](https://www.algolia.com/) and building [Runboard](https://github.com/runboard-app)
 - 📫 I'm reachable on Twitter [@leviwhalen](https://twitter.com/LeviWhalen)
 
 
