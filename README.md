@@ -11,4 +11,4 @@
 [![What I Use](https://skillicons.dev/icons?i=ts,react,vite,nuxt,tailwind,supabase,workers)](https://skillicons.dev)
 
 ## What I'm Learning
-[![What I'm learning](https://skillicons.dev/icons?i=swift,astro)](https://skillicons.dev)
+[![What I'm learning](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
