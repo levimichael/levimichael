@@ -2,8 +2,8 @@
 
 ## About Me
 - 🔭 I’m currently helping developers build awesome search expriences at [Algolia](https://www.algolia.com/)
-- 🏗 I'm building a high performance visual site builder called [Runboard](https://github.com/runboard-app)
-- 📫 I'm reachable on Twitter [@leviwhalen](https://twitter.com/LeviWhalen)
+- 🏗 I'm building web experiences at [Big Blue](https://bigblue.agency)
+- 📫 I'm reachable on Twitter/X [@leviwhalen](https://twitter.com/LeviWhalen)
 
 
 ## What I Use
