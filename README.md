@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m currently helping developers build awesome search expriences at [Algolia](https://www.algolia.com/)
-- 🏗 I'm building web experiences at [Big Blue](https://bigblue.agency)
+- 🏗 I'm building tools for churches at Chatterbrain Labs
 - 📫 I'm reachable on Twitter/X [@leviwhalen](https://twitter.com/LeviWhalen)
 
 
