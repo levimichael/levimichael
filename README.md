@@ -8,7 +8,8 @@
 
 ## What I Use
 
-[![What I Use](https://skillicons.dev/icons?i=ts,react,vite,nuxt,tailwind,supabase,workers)](https://skillicons.dev)
+[![What I Use](https://skillicons.dev/icons?i=ableton,ts,react,vite,nuxt,tailwind,supabase,workers)](https://skillicons.dev)
 
 ## What I'm Learning
-[![What I'm learning](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
+[![What I'm learning](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
+
